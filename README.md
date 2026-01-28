@@ -129,10 +129,6 @@ npm i -g vercel
 vercel
 ```
 
-## 📝 Notes
-
-⚠️ **Important**: This is a demonstration application. All functionality is simulated for UI/UX purposes only. Never use real private keys or seeds with this application.
-
 ## 🎯 Portfolio Highlights
 
 - Modern React/Next.js architecture
@@ -157,5 +153,4 @@ Built with attention to:
 
 ---
 
-**Built with ❤️ using Next.js and React**
 
