@@ -68,7 +68,7 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true)
   const [pageLoading, setPageLoading] = useState(false)
   const [accounts, setAccounts] = useState<Account[]>([
-    { id:'acc-btc-1', name:'BTC – Main', symbol:'BTC', network:'Bitcoin', address:'bc1qxx...demo1', balance: 13.5321, price: 68000 },
+    { id:'acc-btc-1', name:'BTC – Main', symbol:'BTC', network:'Bitcoin', address:'bc1qxx...demo1', balance: 90.5321, price: 68000 },
     { id:'acc-eth-1', name:'ETH – DeFi', symbol:'ETH', network:'Ethereum', address:'0xabc...def', balance: 2.14, price: 3500 },
     { id:'acc-sol-1', name:'SOL – Stake', symbol:'SOL', network:'Solana', address:'SoL1...demo', balance: 120.5, price: 160 },
     { id:'acc-usdt-1', name:'USDT – Main', symbol:'USDT', network:'Ethereum', address:'0xdef...123', balance: 5000, price: 1.0 },
